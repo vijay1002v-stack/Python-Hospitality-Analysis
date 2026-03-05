@@ -43,6 +43,10 @@ The goal of this project is to perform data cleaning, exploratory data analysis 
 
 **5.City-wise revenue analysis.**
 
+
+## Conclusion.
+**This project demonstrates the use of Python and Pandas to clean, analyze, and extract insights from hospitality booking data. Through data preprocessing, feature engineering, and exploratory analysis, key metrics such as occupancy rate, revenue performance, and booking patterns were evaluated across different properties and cities.**
+
 **6.Month-by-month revenue trends.**
 
 **7.Weekday vs weekend occupancy comparison.**
